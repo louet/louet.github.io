@@ -1,0 +1,23 @@
+[
+  {
+    "id" : 0,
+    "title" : "new black",
+    "content" : "꾸찌",
+    "price" : 120000,
+    "src" : "https://codingapple1.github.io/shop/shoes1.jpg"
+  },
+  {
+    "id" : 1,
+    "title" : "부농부농화",
+    "content" : "서우르",
+    "price" : 110000,
+    "src" : "https://codingapple1.github.io/shop/shoes2.jpg"
+  },
+  {
+    "id" : 2,
+    "title" : "그뤠이",
+    "content" : "유투브",
+    "price" : 130000,
+    "src" : "https://codingapple1.github.io/shop/shoes3.jpg"
+  }
+]
